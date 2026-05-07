@@ -1,7 +1,7 @@
 import PageHero from "../components/PageHero";
 import VideoCard from "../components/VideoCard";
 import { allVideos } from "../data/videos";
-import banner from '../Assets/b.png';
+import banner from '../assets/b.png';
 
 export default function Videos() {
   return (

@@ -1,12 +1,12 @@
 import { videos } from '../data/videos';
 import WorkoutPage from './WorkoutPage';
-import zumbaBanner from '../Assets/zumbabanner.png';
-import armBanner from '../Assets/armbanner.png';
-import chestBanner from '../Assets/chestbanner.png';
-import yogaBanner from '../Assets/yogabanner.png';
-import cardioBanner from '../Assets/cardiobanner.png';
-import legBanner from '../Assets/legbanner.png';
-import backBanner from '../Assets/backbanner.png';
+import zumbaBanner from '../assets/zumbabanner.png';
+import armBanner from '../assets/armbanner.png';
+import chestBanner from '../assets/chestbanner.png';
+import yogaBanner from '../assets/yogabanner.png';
+import cardioBanner from '../assets/cardiobanner.png';
+import legBanner from '../assets/legbanner.png';
+import backBanner from '../assets/backbanner.png';
 
 export function ZumbaPage() {
   return (
