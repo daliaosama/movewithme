@@ -1,5 +1,5 @@
 import PageHero from "../components/PageHero";
-import banner from "../Assets/b.png";
+import banner from "../assets/b.png";
 import { Link } from "react-router-dom";
 
 export default function About() {
